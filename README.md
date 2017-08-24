@@ -1,7 +1,7 @@
 # Hedgehog Lamp - Beta // design by pied-de-biche.cc, an open-source project !
 
-Assembly instruction_Are you ready to make your lamp ?
-Notice de montage_Es-tu prêt à monter ta lampe ?
+Assembly instruction_Are you ready to make your lamp ?  
+***Notice de montage_Es-tu prêt à monter ta lampe ?***
 
 ### 01
 Place your lampshade flat, the  folding grooves facing you (in red on the picture). Fold creases sharply.  

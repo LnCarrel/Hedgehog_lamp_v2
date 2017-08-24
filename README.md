@@ -48,5 +48,8 @@ Tighten the lower thread as you want, it sets the aperture of your lampshade.
 **Your lamp is ready !  Ta lampe est prête !**
 
 
-Laser cut [file](/lasercut/decoupe.svg). ***[Fichier](/lasercut/decoupe.svg) de découpe.***
-PDF notice[notice](/lasercut/decoupe.svg). ***[Notice](/lasercut/decoupe.svg) en PDF.***
+Laser cut [file](/lasercut/decoupe.svg).  
+***[Fichier](/lasercut/decoupe.svg) de découpe.***  
+
+PDF [notice](/lasercut/decoupe.svg).  
+***[Notice](/lasercut/decoupe.svg) en PDF.***

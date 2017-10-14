@@ -1,4 +1,4 @@
-# Hedgehog Lamp - Beta // design by pied-de-biche.cc, an open-source project !
+# Hedgehog Lamp - Beta // design by [pied-de-biche.cc](http://pied-de-biche.cc), an open-source project !
 
 Assembly instruction_Are you ready to make your lamp ?  
 ***Notice de montage_Es-tu prêt à monter ta lampe ?***

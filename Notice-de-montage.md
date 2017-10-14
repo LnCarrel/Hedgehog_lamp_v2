@@ -1,4 +1,4 @@
-# Assembly notice / Notice de montage
+# Assembly instruction / Notice de montage
 
 Assembly instruction_Are you ready to make your lamp ?  
 ***Notice de montage_Es-tu prêt à monter ta lampe ?***

@@ -3,7 +3,7 @@
 ## Informations
 La lampe "Hedgehog" est un objet à usage domestique disponible pour tous. Elle est entièrement réalisable sur une découpeuse laser.
 
-Vous voulez la fabriquer ? Rendez-vous ici.
+Vous voulez la fabriquer ? Rendez-vous [ici](/Notice-de-montage.md).
 
 Vous voulez uniquement la monter ? Rendez-vous ici pour acheter le kit.
 

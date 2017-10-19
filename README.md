@@ -5,7 +5,7 @@ La lampe "Hedgehog" est un objet à usage domestique disponible pour tous. Elle 
 
 Vous voulez la fabriquer ? Rendez-vous [ici](/Notice-de-montage.md).
 
-Vous voulez uniquement la monter ? Rendez-vous ici pour acheter le kit.
+Vous voulez uniquement la monter ? Contactez-nous [contactez-nous](mailto:info@lncarrel.ch).
 
 ## Notice de fabrication
 

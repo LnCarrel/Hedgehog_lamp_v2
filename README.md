@@ -12,7 +12,7 @@ Vous voulez uniquement la monter ? [Contactez-nous](mailto:info@lncarrel.ch).
 L'abat-jour de la lampe est en polypropilène, le pied et le crochet en bois. Vous trouverez [ici](/Materiel.md) la liste détaillée.
 
 ## Notice de fabrication des éléments découpés
-Cette lampe est entièrement fabriquer à l'aide d'une découpeuse laser. Vous trouverez le fichier de découpe [ici](/lasercut/decoupe.pdf).
+Cette lampe est entièrement fabriquée à l'aide d'une découpeuse laser. Vous trouverez le fichier de découpe [ici](/lasercut/decoupe.pdf).
 
 ## Notice de montage
 La durée de montage de la lampe est variable en fonction de vos connaissance de base. Les plus rapides mettront 30min et cela peut prendre jusqu'à 1h30. Vous trouverez la notice de montage détaillée [ici](/Notice-de-montage.md).
